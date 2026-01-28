@@ -226,9 +226,9 @@ export const navLinks = [
   { href: "#about", label: "About" },
   { href: "#services", label: "Services" },
   { href: "#projects", label: "Projects" },
+  { href: "/showcase", label: "Showcase", external: true },
   { href: "/case-studies", label: "Case Studies", external: true },
   { href: "#skills", label: "Skills" },
-  { href: "#experience", label: "Experience" },
   { href: "#contact", label: "Contact" },
 ]
 
